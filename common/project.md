@@ -125,7 +125,7 @@ Project 수정은 Project의 구성원 추가, 삭제, 권한 변경 및 설명�
 #### Project 삭제
 
 Project 삭제는 project\_admin 권한을 가진 구성원만 수행할 수 있으며, Project 하위에 VPC와 Server가 없는 경우에만 Project를 삭제할 수 있습니다. \
-[InitScript](../compute/init-script.md), [KeyPair](../compute/key-pair.md), [SecurityGroup](../compute/security-group/), [External Gateway](../network/external-gateway-1.md), Internet Gateway를 비롯하여 모든 정보가 Project 삭제 시 함께 삭제되며 복구가 불가능하니 주의가 필요합니다.
+[InitScript](../compute/init-script.md), [KeyPair](../compute/key-pair.md), [SecurityGroup](../compute/security-group/), [External Gateway](../network/gateway.md), Internet Gateway를 비롯하여 모든 정보가 Project 삭제 시 함께 삭제되며 복구가 불가능하니 주의가 필요합니다.
 
 {% tabs %}
 {% tab title="1. Project 삭제 화면 이동" %}

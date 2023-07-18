@@ -19,16 +19,21 @@
 
 ## Storage
 
-* [Block Snapshot](storage/block-snapshot.md)
+* [Block Storage](storage/block/README.md)
+  * [Volume](storage/block/volume.md)
+  * [Volume Snapshot](storage/block/volume-snapshot.md)
 
 ## 🔗 Network
 
-* [VPC](network/vpc.md)
+* [VPC](network/vic.md)
 * [Subnet](network/subnet.md)
-* [Subnet Routing](network/subnet-routing.md)
-* [VPC Routing](network/vpc-routing.md)
-* [External Gateway 연결](network/external-gateway.md)
-* [External Gateway](network/external-gateway-1.md)
+* [Routing](network/routing/README.md)
+  * [Subnet Routing](network/routing/subnet-routing.md)
+  * [VPC Peering](network/routing/vac-peering.md)
+  * [Gateway 연결](network/routing/gateway-routing.md)
+  * [Cloud Connect 연결](network/routing/cloud-connect-routing.md)
+* [Gateway](network/gateway.md)
+* [Cloud Connect](network/cloud-connect.md)
 
 ## ⚙ Fabric
 

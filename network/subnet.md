@@ -4,7 +4,7 @@
 
 #### 소개
 
-Subnet 은 [VPC](vpc.md) 내 세분화된 네트워크 영역을 의미합니다. 또한 Subnet 은 VPC IP 주소 범위 내 세분화된 IP 주소 범위를 갖습니다. Subnet 은 독립된 네트워크 영역으로 같은 VPC 내 존재하더라도 기본적으로 통신이 불가능합니다. VPC 내 Subnet 간 통신을 위해서 [Subnet Routing](subnet-routing.md) 기능이 필요합니다.
+Subnet 은 [VPC](vic.md) 내 세분화된 네트워크 영역을 의미합니다. 또한 Subnet 은 VPC IP 주소 범위 내 세분화된 IP 주소 범위를 갖습니다. Subnet 은 독립된 네트워크 영역으로 같은 VPC 내 존재하더라도 기본적으로 통신이 불가능합니다. VPC 내 Subnet 간 통신을 위해서 [Subnet Routing](routing/subnet-routing.md) 기능이 필요합니다.
 
 
 

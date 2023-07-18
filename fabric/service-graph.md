@@ -4,7 +4,7 @@
 
 #### 소개
 
-Service Graph 는 vWAF, vFW 등 NFV 서비스를 의미합니다. 등록된 Service Graph는 Routing에 [PBR 연결](../network/subnet-routing.md#pbr)하여 사용할 수 있습니다. 현재 SDDC Platform 에서 Service Graph를 생성할 수는 없고 사전에 등록된 정보하거나 삭제만 할 수 있습니다.
+Service Graph 는 vWAF, vFW 등 NFV 서비스를 의미합니다. 등록된 Service Graph는 Routing에 [PBR 연결](../network/routing/subnet-routing.md#pbr)하여 사용할 수 있습니다. 현재 SDDC Platform 에서 Service Graph를 생성할 수는 없고 사전에 등록된 정보하거나 삭제만 할 수 있습니다.
 
 #### 구성
 

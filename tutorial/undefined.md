@@ -13,7 +13,7 @@
 ## 절차
 
 1. [Project를 생성합니다.](../common/project.md#project-4)
-2. [Project 하위에 VPC를 생성합니다.](../network/vpc.md#vpc-1)
+2. [Project 하위에 VPC를 생성합니다.](../network/vic.md#vpc-1)
    * 예시) VPC IP 주소 범위: 10.220.0.0/16
 3. [VPC 하위에 Subnet을 생성합니다.](../network/subnet.md#subnet-1)
    * 예시) Subnet-Local IP 주소 범위: 10.220.1.1/24

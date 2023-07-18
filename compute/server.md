@@ -53,7 +53,7 @@ Server 생성 시 사용할 OS 이미지를 선택합니다.
 Server의 네트워크를 설정합니다.
 
 * VPC&#x20;
-  * 생성된 VPC가 없을 경우 [VPC](../network/vpc.md)를 참조해 먼저 생성을 진행합니다.
+  * 생성된 VPC가 없을 경우 [VPC](../network/vic.md)를 참조해 먼저 생성을 진행합니다.
 * Subent
   * 생성된 Subnet이 없을 경우 [Subnet](../network/subnet.md)를 참조해 먼저 생성을 진행합니다.
 * (Security Group)&#x20;

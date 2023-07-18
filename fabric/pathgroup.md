@@ -9,7 +9,7 @@ PathGroup 은 네트워크 리소스 생성에 필요한 물리적인 리소스 
 {% hint style="info" %}
 참고
 
-네트워크 리소스 : [Subnet](../network/subnet.md), Internet Gateway, [External Gateway](../network/external-gateway-1.md), Provider Gateway
+네트워크 리소스 : [Subnet](../network/subnet.md), Internet Gateway, [External Gateway](../network/gateway.md), Provider Gateway
 
 물리적인 리소스 : [Domain](domain.md), [PathEndpoint](pathendpoint.md)
 {% endhint %}
