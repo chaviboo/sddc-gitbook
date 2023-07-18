@@ -1,4 +1,4 @@
-# External Gateway
+# Gateway
 
 ## 개요
 

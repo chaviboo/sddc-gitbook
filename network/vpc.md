@@ -4,7 +4,7 @@
 
 #### 소개
 
-VPC(Virtual Private Cloud)는 논리적으로 격리된 가상의 네트워크에서 SDDC Platform 리소스를 운영할 수 있는 기능을 제공합니다. VPC 는 Project 하위에 생성되며, 최대 3개 까지 생성 가능합니다. 동일한 Project 내 VPC 간 통신을 하기 위해선 [VPC Routing](routing/vac-peering.md) 이 필요합니다. 각 VPC 하위에 독립된 네트워크인 [Subnet](subnet.md)을 생성하여 IT 인프라를 안전하게 구축하고 간편하게 관리할 수 있습니다.&#x20;
+VPC(Virtual Private Cloud)는 논리적으로 격리된 가상의 네트워크에서 SDDC Platform 리소스를 운영할 수 있는 기능을 제공합니다. VPC 는 Project 하위에 생성되며, 최대 3개 까지 생성 가능합니다. 동일한 Project 내 VPC 간 통신을 하기 위해선 [VPC Routing](vpc-routing.md) 이 필요합니다. 각 VPC 하위에 독립된 네트워크인 [Subnet](subnet.md)을 생성하여 IT 인프라를 안전하게 구축하고 간편하게 관리할 수 있습니다.&#x20;
 
 
 
@@ -107,11 +107,11 @@ VPC 삭제는 Project 내 VPC 를 삭제하는 기능입니다. 삭제 대상 VP
 
 > **Q. VPC 생성이 되지 않습니다.**
 >
-> A. [VPC 생성](vic.md#vpc)을 참고해주시기 바랍니다. 만약 해결 되지 않는다면 시스템 관리자(sddc.ktcloud@kt.com)에게 문의 하시기 바랍니다.
+> A. [VPC 생성](vpc.md#vpc)을 참고해주시기 바랍니다. 만약 해결 되지 않는다면 시스템 관리자(sddc.ktcloud@kt.com)에게 문의 하시기 바랍니다.
 
 > **Q. VPC 삭제가 되지 않습니다.**&#x20;
 >
-> A. [VPC 삭제](vic.md#vpc-2)를 참고해주시기 바랍니다. 만약 해결 되지 않는다면 시스템 관리자(sddc.ktcloud@kt.com)에게 문의 하시기 바랍니다.
+> A. [VPC 삭제](vpc.md#vpc-2)를 참고해주시기 바랍니다. 만약 해결 되지 않는다면 시스템 관리자(sddc.ktcloud@kt.com)에게 문의 하시기 바랍니다.
 
 > **Q. VPC 는 몇 개까지 생생 가능한가요?**
 >

@@ -18,8 +18,8 @@ Gateway Info를 생성할 때 Gateway에서 사용할 네트워크 인터페이�
 
 <table><thead><tr><th width="227">속성</th><th>값</th></tr></thead><tbody><tr><td>Gateway Info 이름</td><td>GW-Info</td></tr><tr><td>Gateway 유형</td><td>External Gateway</td></tr><tr><td>Interface 유형</td><td>SVI</td></tr><tr><td>PathGroup 이름</td><td>EXT-PG</td></tr><tr><td>vlan 번호</td><td>1000</td></tr><tr><td>PathEndpoint 구성1<br>(PathEndpoint 구성 내역)</td><td><p>유형 : PORT</p><p>PathEndpoint : PathEp1<br>IP Address 1 : 10.20.30.0/24</p></td></tr><tr><td>Node 정보1<br>(Node 정보)</td><td>이름 : Node1<br>Router Id : 1.1.1.1<br>Static Route : 10.0.0.0/8<br>Next Hop Ip : 10.20.30.1/24</td></tr></tbody></table>
 
-GW-Info 의 Gatetway 유형이 External Gateway 이므로 [External Gateway 생성](../network/gateway.md#external-gateway-1) 시 사용 가능합니다.\
-GW-Info 를 이용하여 External Gateway 'EXT-GW' 를 생성하면, 'EXT-GW' 와 [External Gateway 연결](../network/routing/gateway-routing.md)을 통해 10.0.0.0/8 대역을 가진 외부 네트워크와 통신이 가능하게 됩니다. 이 때 Border Leaf 는 Node1 이 되고, 외부 네트워크와 접점이 되는 인터페이스는 PathEp1 이 됩니다. 그리고 이를 통해 나가는 Traffic 은 1000번 vlan 으로 Encap 됩니다. **단, 외부 네트워크에서 ACI Network 를 인식할 수 있도록 라우팅 테이블을 설정하는 사전 작업이 필요합니다.**
+GW-Info 의 Gatetway 유형이 External Gateway 이므로 [External Gateway 생성](../network/external-gateway-1.md#external-gateway-1) 시 사용 가능합니다.\
+GW-Info 를 이용하여 External Gateway 'EXT-GW' 를 생성하면, 'EXT-GW' 와 [External Gateway 연결](../network/external-gateway.md)을 통해 10.0.0.0/8 대역을 가진 외부 네트워크와 통신이 가능하게 됩니다. 이 때 Border Leaf 는 Node1 이 되고, 외부 네트워크와 접점이 되는 인터페이스는 PathEp1 이 됩니다. 그리고 이를 통해 나가는 Traffic 은 1000번 vlan 으로 Encap 됩니다. **단, 외부 네트워크에서 ACI Network 를 인식할 수 있도록 라우팅 테이블을 설정하는 사전 작업이 필요합니다.**
 
 
 

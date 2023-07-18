@@ -13,13 +13,13 @@ IP 대역이 다른 두 개의 Subnet에 각각 Server를 생성하고, Server �
 
 ## 절차
 
-1. [Project를 생성합니다.](../common/project.md#project-4)
-2. [Project 하위에 VPC를 생성합니다.](../network/vic.md#vpc-1)
+1. [Project를 생성합니다.](../tenant-member.md#project-4)
+2. [Project 하위에 VPC를 생성합니다.](../network/vpc.md#vpc-1)
    * 예시) VPC IP 주소 범위: 10.201.0.0/16
 3. [VPC 하위에 Subnet을 두 개 생성합니다.](../network/subnet.md#subnet-1)
    * 예시) Subnet-WEB IP 주소 범위: 10.201.1.1/24
    * 예시) Subnet-WAS IP 주소 범위: 10.201.2.1/24&#x20;
-4. [Subnet Routing을 설정](../network/routing/subnet-routing.md#subnet-routing-1)하여 두 개 Subnet이 통신 가능하도록 합니다.
+4. [Subnet Routing을 설정](../network/subnet-routing.md#subnet-routing-1)하여 두 개 Subnet이 통신 가능하도록 합니다.
    * 예시) 출발지: Subnet-WEB, 목적지: Subnet-WAS
 5. 각각의 [Subnet 하위에 Server를 생성합니다.](../compute/server.md#server-2)
    * 예시) Subnet-WEB의 Server: DMZ-WEB

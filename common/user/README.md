@@ -1,4 +1,4 @@
-# User
+# 사용자 관리
 
 ## 개요
 
@@ -22,7 +22,7 @@ User 권한은 **User의 하위 개념**으로<mark style="color:blue;">,</mark>
 
 왼쪽 메뉴에서 공통 관리 > User 를 클릭하여 User 목록을 조회합니다.
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -33,7 +33,7 @@ User 권한은 **User의 하위 개념**으로<mark style="color:blue;">,</mark>
 * 왼쪽 메뉴에서 공통 관리 > User 를 선택합니다.
 * User 목록 화면이 나타나면 상단 메뉴 중 등록 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
 * User 등록을 위한 팝업 창이 나타납니다.
 {% endtab %}
@@ -53,7 +53,7 @@ User 권한은 **User의 하위 개념**으로<mark style="color:blue;">,</mark>
 아이디, 이름은 등록 후 수정이 불가능합니다.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
 
 * 팝업 창 우측 하단의 등록 버튼을 클릭합니다.
 * 팝업 창이 닫히고, User 목록 화면에 생성한 User가 추가된 것을 확인합니다.
@@ -79,7 +79,7 @@ User 등록 기능을 통해 추가된 User 권한은 기본적으로 "사용자
 * 왼쪽 메뉴에서 공통 관리 > User 를 선택합니다.
 * User 목록 화면이 나타나면 수정하려는 User를 선택한 다음, 상단의 수정 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
 
 * User 수정을 위한 팝업 창이 나타납니다.
 {% endtab %}
@@ -91,7 +91,7 @@ User 등록 기능을 통해 추가된 User 권한은 기본적으로 "사용자
 * 전화번호 : 사용자 휴대폰 번호를 입력합니다.
 * 계정 상태 : User의 활성 여부를 설정합니다. 로그인 시 비밀번호 5회 이상 오류가 발생한 경우, 해당 User는 자동 비활성 처리가 됩니다.
 
-<figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
 * User 정보 변경 후, 팝업창 하단의 수정 버튼을 클릭합니다.
 * 수정 팝업 창이 닫히고, User 목록이 새로 조회되며 수정 내역이 잘 반영되었는지 확인합니다.
@@ -107,7 +107,7 @@ User 등록 기능을 통해 추가된 User 권한은 기본적으로 "사용자
 * 왼쪽 메뉴에서 공통 관리 > User 메뉴를 선택합니다.
 * User 목록 화면이 나타나면 삭제하려는 User를 선택한 다음, 상단의 삭제 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
 
 * User 삭제를 위한 팝업 창이 나타납니다.
 {% endtab %}
@@ -115,7 +115,7 @@ User 등록 기능을 통해 추가된 User 권한은 기본적으로 "사용자
 {% tab title="2. User 삭제" %}
 * 팝업 창 하단의 삭제 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
 
 * 삭제 팝업 창이 닫히고, User 목록이 새로 조회되며 User가 삭제되었는지 확인합니다.
 {% endtab %}
@@ -132,7 +132,7 @@ User 등록 기능을 통해 추가된 User 권한은 기본적으로 "사용자
 * 왼쪽 메뉴에서 공통 관리 > User 를 선택합니다.
 * User 목록 화면이 나타나면 비밀번호를 초기화하고자 하는 User를 선택한 다음, 상단의 비밀번호 초기화 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
 
 * 비밀번호 초기화 팝업 창이 나타납니다.
 {% endtab %}
@@ -140,7 +140,7 @@ User 등록 기능을 통해 추가된 User 권한은 기본적으로 "사용자
 {% tab title="2. 비밀번호 초기화" %}
 * 팝업 창 하단의 비밀번호 초기화 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
 
 * 비밀번호 초기화 팝업 창이 닫히고, 선택한 User의 비밀번호는 User 아이디와 동일하게 설정됩니다.
 {% endtab %}

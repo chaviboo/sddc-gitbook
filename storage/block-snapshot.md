@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# Block Snapshot
+# Volume Snapshot
 
 ## 개요
 
