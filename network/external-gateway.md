@@ -40,7 +40,7 @@ External Gateway 연결은 Subnet 과 External Gateway을 연결하여 양방향
 * External Gateway 이름 :  연결 대상 External Gateway를 선택합니다.
 * 연결 대상 Subnet 목록 :  External Gateway에 연결할 Subnet으로, 복수 개 선택이 가능합니다.
 
-<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
 
 * 팝업 창 우측 하단의 생성 버튼을 클릭합니다.
 * 팝업 창이 닫히고, External Gateway 연결 목록 화면에 External Gateway 연결이 새로 추가된 것을 확인합니다.
@@ -56,7 +56,7 @@ External Gateway 연결은 Subnet 과 External Gateway을 연결하여 양방향
 * 왼쪽 메뉴에서 Network > Routing > External Gateway 연결 을 선택합니다.
 * External Gateway 연결 목록 화면이 나타나면 삭제하려는 External Gateway 연결을 선택한 다음, 상단의 삭제 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
 
 * External Gateway 연결 삭제을 위한 팝업 창이 화면에 나타납니다.
 {% endtab %}

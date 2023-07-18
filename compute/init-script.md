@@ -12,7 +12,7 @@
 
 왼쪽 메뉴에서 Compute > Init Script 를 클릭하여 Init Script 목록을 조회합니다.
 
-<figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -44,7 +44,7 @@
 * 필요 시 Init Script 설명을 입력합니다.
 * 오른쪽 하단의 생성 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
 
 * 팝업 창이 닫히고, Init Script 목록 화면에 생성한 Init Script가 목록에 추가되며, 목록에서 확인됩니다
 {% endtab %}
@@ -68,7 +68,7 @@ Init Script의 이름, script, 설명을 수정할 수 있습니다. Init Script
 * 왼쪽 메뉴에서 Compute > Init Script를 선택합니다.
 * Init Script 목록 화면이 나타나면 수정하려는 Init Script를 선택한 후 상단의 수정 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
 
 * Init Script 수정을 위한 팝업 창이 화면에 나타납니다.
 {% endtab %}
@@ -78,7 +78,7 @@ Init Script의 이름, script, 설명을 수정할 수 있습니다. Init Script
 * 수정은 생성과 방법이 동일하므로 자세한 사항은 [Init Script 생성](init-script.md#init-script) 을 참고합니다.
 * 수정이 끝나면 하단의 수정 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
 
 * 팝업 창이 닫히고, Init Script 목록 화면에 수정한 내용이 반영되어 보입니다.
 {% endtab %}
@@ -95,7 +95,7 @@ Init Script 삭제는 이미 생성된 Server의 Init Script를 삭제하지는 
 * 왼쪽 메뉴에서 Compute > Init Script를 선택합니다.
 * Init Script 목록 화면이 나타나면 삭제하려는 Init Script를 선택한 후 상단의 삭제 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
 
 * Init Script 삭제를 위한 팝업 창이 화면에 나타납니다.
 {% endtab %}
@@ -103,7 +103,7 @@ Init Script 삭제는 이미 생성된 Server의 Init Script를 삭제하지는 
 {% tab title="2. Init Script 삭제" %}
 * 팝업 창 우측 하단의 삭제 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
 * 삭제 팝업 창이 닫히고, Init Script 목록 화면에 삭제한 Init Script가 제외되어 보입니다.
 {% endtab %}

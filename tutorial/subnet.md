@@ -7,7 +7,7 @@ IP 대역이 다른 두 개의 Subnet에 각각 Server를 생성하고, Server �
 
 #### 네트워크 구성도
 
-<figure><img src="../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -17,7 +17,7 @@ Server 를 생성하기 위해서는 관련된 VPC, Subnet, Keypair 등이 선�
 
 왼쪽 메뉴에서 Compute > Server 를 클릭하여 Server 목록을 조회합니다.
 
-<figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -25,7 +25,7 @@ Server 를 생성하기 위해서는 관련된 VPC, Subnet, Keypair 등이 선�
 
 Server 목록화면에서 특정 Server를 선택하면 상세정보를 확인할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -36,17 +36,17 @@ Server 목록화면에서 특정 Server를 선택하면 상세정보를 확인�
 Server 생성에 필요한 기본 정보를 설정합니다.
 
 * **Server 이름**: 3byte 이상 20byte 이내, 영문과 숫자, '-' 만 가능합니다.
-* **Server Type**: [Flavor](flavor.md)에서 정의한 CPU/RAM 등 서버 구성 유형을 선택합니다.
+* **Server Type**: [Flavor](broken-reference)에서 정의한 CPU/RAM 등 서버 구성 유형을 선택합니다.
 
 
 
 Server 생성 시 사용할 OS 이미지를 선택합니다.
 
-* **OS 이미지 선택**: [Image](image.md)에 등록된 목록이 조회되며, 이 중 원하는 이미지를 선택합니다.
+* **OS 이미지 선택**: [Image](broken-reference)에 등록된 목록이 조회되며, 이 중 원하는 이미지를 선택합니다.
 
 
 
-<figure><img src="../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="2. 네트워크 설정" %}
@@ -80,7 +80,7 @@ Server 에 관련된 추가정보를 설정합니다.
 
 
 
-<figure><img src="../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="4. 검토 및 생성" %}
@@ -92,7 +92,7 @@ Server 생성 요청 전 검토를 진행합니다.
 
 
 
-<figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="5. 생성결과 확인" %}
@@ -131,7 +131,7 @@ Server 목록에 생성한 Server가 조회되어 나타납니다.\
 * 왼쪽 메뉴에서 Compute > Server 를 선택합니다.
 * Server 목록 화면이 나타나면 삭제하고자 하는 Server를 선택한 다음 상단의 삭제 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
 
 * Server 삭제를 위한 팝업 창이 화면에 나타납니다.
 {% endtab %}
@@ -139,7 +139,7 @@ Server 목록에 생성한 Server가 조회되어 나타납니다.\
 {% tab title="2. Server 삭제" %}
 * 삭제하려는 Server 이름을 입력한 다음, 팝업 창 우측 하단의 삭제 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
 * 팝업 창이 닫히고, Server 목록에서 해당 Server가 삭제된 것을 확인합니다.
 {% endtab %}
@@ -162,13 +162,13 @@ Server 목록에 생성한 Server가 조회되어 나타납니다.\
 * 왼쪽 메뉴에서 Compute > Server 를 선택합니다.
 * Server 목록 화면이 나타나면, 원하는 Server를 선택한 다음 상단의 터미널 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="2. Server Terminal 시작" %}
 * 팝업 창 우측 하단의 시작 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
 * 터미널 창이 실행됩니다.
 {% endtab %}
@@ -189,7 +189,7 @@ Server Terminal 생성 직후 10분간은 다른 사용자가 동일 Server에 �
 * 왼쪽 메뉴에서 Compute > Server 를 선택합니다.
 * Server 목록 화면이 나타나면, 원하는 Server를 선택한 다음 상단의 로그 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
 * 로그 조회를 위합 팝업 창이 화면에 나타납니다.
 {% endtab %}
@@ -197,7 +197,7 @@ Server Terminal 생성 직후 10분간은 다른 사용자가 동일 Server에 �
 {% tab title="2. Server 로그 조회" %}
 * 로그 라인 수를 변경하여 로그 내역을 조회할 수 있습니다. (최대 999,999 라인)
 
-<figure><img src="../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

@@ -29,7 +29,7 @@ GW-Info 를 이용하여 External Gateway 'EXT-GW' 를 생성하면, 'EXT-GW' �
 
 왼쪽 메뉴에서 Fabric 관리 > Gateway Info 를 클릭하여 Gateway Info 목록을 조회합니다.
 
-<figure><img src="../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -42,7 +42,7 @@ Gateway 생성 시 필요한 정보를 생성하는 기능입니다. Gateway Inf
 * 왼쪽 메뉴에서 Fabric 관리 > Gateway Info 을 선택합니다.
 * Gateway Info 목록이 나타나면 상단 메뉴 중 생성 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
 
 * Gateway Info 생성을 위한 팝업 창이 화면에 나타납니다.
 {% endtab %}
@@ -60,7 +60,7 @@ Gateway 생성 시 필요한 정보를 생성하는 기능입니다. Gateway Inf
    * 목록에 추가하고자 할 경우,  Leaf Node 이름, Router Id, Static Route, Next Hop Ip 정보를 입력한 다음 추가 버튼을 클릭합니다.
    * 등록된 정보를 삭제하고자 할 경우, 🗑 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 
 * 팝업 창 우측 하단의 생성 버튼을 클릭합니다.
 * 팝업 창이 닫히고, Gateway Info 목록 화면에 생성한 Gateway Info가 추가된 것을 확인합니다.
@@ -76,7 +76,7 @@ Gateway 생성 시 필요한 정보를 생성하는 기능입니다. Gateway Inf
 * 왼쪽 메뉴에서 Fabric 관리 > Gateway Info 를 선택합니다.
 * Gateway Info 목록 화면이 나타나면 수정하려는 Gateway Info을 선택한 다음, 상단의 수정 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 * Gateway Info 수정 팝업 창이 화면에 나타납니다.
 
@@ -98,7 +98,7 @@ Gatway Info 삭제는 Gatway Info 를 삭제하는 기능입니다. '사용 중'
 * 왼쪽 메뉴에서 Fabric 관리 > Gateway Info 을 선택합니다.
 * Gateway Info 목록 화면이 나타나면 삭제하려는 Gateway Info를 선택한 다음, 상단의 삭제 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 
 * Gateway Info 삭제 팝업 창이 화면에 나타납니다.
 {% endtab %}
@@ -106,7 +106,7 @@ Gatway Info 삭제는 Gatway Info 를 삭제하는 기능입니다. '사용 중'
 {% tab title="2. Gateway Info 삭제" %}
 * 팝업 창 우측 하단의 삭제 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
 
 * 삭제 팝업 창이 닫히고, Gateway Info 목록에서 삭제되었는지 확인합니다.
 {% endtab %}

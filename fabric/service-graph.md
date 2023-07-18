@@ -21,7 +21,7 @@ Service Graph 는 vWAF, vFW 등 NFV 서비스를 의미합니다. 등록된 Serv
 * 왼쪽 메뉴에서 Fabric 관리 > Service Graph 을 선택합니다.
 * Service Graph 목록 화면이 나타나면 삭제하려는 Service Graph을 선택한 다음, 상단의 삭제 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
 
 * Service Graph 삭제 팝업 창이 화면에 나타납니다.
 {% endtab %}
@@ -29,7 +29,7 @@ Service Graph 는 vWAF, vFW 등 NFV 서비스를 의미합니다. 등록된 Serv
 {% tab title="2. Service Graph 삭제" %}
 * 팝업 창 우측 하단의 삭제 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
 
 * 삭제 팝업 창이 닫히고, Service Graph 목록에서 삭제되었는지 확인합니다.
 

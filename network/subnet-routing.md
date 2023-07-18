@@ -31,7 +31,7 @@ Subnet Routing 생성은 한 VPC 내 Subnet 사이에 단방향 통신 관계를
 * 왼쪽 메뉴에서 Network > Routing > Subnet Routing 을 선택합니다.
 * Subnet Routing 목록이 나타나면 상단 메뉴 중 생성 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
 
 * Subnet Routing 생성을 위한 팝업 창이 화면에 나타납니다.
 {% endtab %}
@@ -82,14 +82,14 @@ Subnet Routing 정보를 수정하는 기능입니다. Subnet Routing 이름, VP
 * 설명 수정 후, 팝업 창 우측 하단의 수정 버튼을 클릭 합니다.
 * 팝업 창이 닫히고, 수정 사항이 목록에 반영되어 조회됩니다.
 
-<figure><img src="../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
 
 
 * Subnet Routing에 등록된 목적지 Subnet을 수정하고자 할 경우, 팝업창 좌측 하단의 Routing 관리 버튼을 클릭합니다.
 * Routing 관리 팝업 창이 나타납니다.
 
-<figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="3. Routing 관리" %}
@@ -111,7 +111,7 @@ Subnet Routing에 등록된 목적지 Subnet을 추가, 삭제할 수 있습니�
 '목적지 Subnet' 추가나 삭제 시 Subnet Routing에 즉시 반영됩니다.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
 
 * 목적지 Subnet 목록 수정 후 Routing 관리 팝업 창 우측 하단의 확인 버튼을 눌러 팝업 창을 닫습니다.
 {% endtab %}
@@ -132,7 +132,7 @@ Subnet Routing에 등록된 목적지 Subnet을 추가, 삭제할 수 있습니�
 {% tab title="2. Subnet Routing 삭제" %}
 * 팝업 창 우측 하단의 삭제 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 * 삭제 팝업 창이 닫히고, Subnet Routing 목록에서 삭제되었는지 확인합니다.
 {% endtab %}
@@ -149,7 +149,7 @@ Routing 에 [Service Graph](../fabric/service-graph.md) 를 연결하는 기능�
 * 왼쪽 메뉴에서 Network > Routing > Subnet Routing을 선택합니다.
 * Subnet Routing 목록 화면이 나타나면 Subnet Routing을 선택한 다음, PBR 연결 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (215).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
 
 * PBR 연결을 위한 팝업 창이 화면에 나타납니다.
 {% endtab %}
@@ -159,7 +159,7 @@ Routing 에 [Service Graph](../fabric/service-graph.md) 를 연결하는 기능�
 
 * Service Graph : 방화벽, 로드밸런서 등과 같은 네트워크 기능입니다.
 
-<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
 
 * Service Graph 선택 후, 팝업 창 우측 하단의 연결 버튼을 클릭합니다.
 * 팝업 창이 닫히고, Subnet Routing 목록 화면에서 PBR 연결 상태를 확인합니다.
@@ -175,7 +175,7 @@ Routing 에 [Service Graph](../fabric/service-graph.md) 를 연결하는 기능�
 * 왼쪽 메뉴에서 Network > Routing > Subnet Routing을 선택합니다.
 * Subnet Routing 목록 화면이 나타나면 Subnet Routing을 선택한 다음, PBR 해제 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
 * PBR 해제를 위한 팝업 창이 화면에 나타납니다.
 {% endtab %}
@@ -183,7 +183,7 @@ Routing 에 [Service Graph](../fabric/service-graph.md) 를 연결하는 기능�
 {% tab title="2. PBR 해제" %}
 * 팝업 창 우측의 해제 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
 
 * 팝업 창이 닫히고, Subnet Routing 목록에서 PBR이 해제되었음을 확인합니다.
 {% endtab %}

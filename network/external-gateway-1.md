@@ -25,7 +25,7 @@ External Gateway는 고객 네트워크와 SDDC Platform의 네트워크를 손�
 * 왼쪽 메뉴에서 Network > External Gateway 을 선택합니다.
 * External Gateway 목록이 나타나면 상단 메뉴 중 생성 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
 
 * External Gateway 생성을 위한 팝업 창이 화면에 나타납니다.
 {% endtab %}
@@ -53,7 +53,7 @@ External Gateway는 고객 네트워크와 SDDC Platform의 네트워크를 손�
 * 왼쪽 메뉴에서 Network > External Gateway 을 선택합니다.
 * External Gateway 목록이 나타나면 상단 메뉴 중 삭제 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
 
 * External Gateway 삭제를 위한 팝업 창이 화면에 나타납니다.
 {% endtab %}
@@ -61,7 +61,7 @@ External Gateway는 고객 네트워크와 SDDC Platform의 네트워크를 손�
 {% tab title="2. External Gateway 삭제" %}
 * 팝업 창 우측 하단의 삭제 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
 
 * 삭제 팝업 창이 닫히고, External Gateway 목록에서 삭제되었는지 확인합니다.
 

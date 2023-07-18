@@ -11,12 +11,11 @@
 
 * [Server](compute/server.md)
 * [Init Script](compute/init-script.md)
-* [Image](compute/image.md)
 * [Key Pair](compute/key-pair.md)
-* [Flavor](compute/flavor.md)
-* [Security Group](compute/security-group.md)
-* [Security Rule](compute/security-rule.md)
+* [Security Group](compute/security-group/README.md)
+  * [Security Rule](compute/security-group/security-rule.md)
 * [Network Interface](compute/network-interface.md)
+* [Server Snapshot](compute/server-snapshot.md)
 
 ## Storage
 

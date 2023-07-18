@@ -27,7 +27,7 @@ VPC 생성은 Project 내 VPC를 생성하는 기능입니다. Project 접근 �
 * 왼쪽 메뉴에서 Network > VPC를 선택합니다.
 * VPC 목록 화면이 나타나면 상단 메뉴 중 생성 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 * VPC 생성을 위한 팝업 창이 화면에 나타납니다.
 {% endtab %}
@@ -60,7 +60,7 @@ VPC 정보를 수정하는 기능입니다. VPC 이름과 IP 주소범위(CIDR)�
 * 왼쪽 메뉴에서 Network > VPC를 선택합니다.
 * VPC 목록 화면이 나타나면 수정하려는 VPC를 선택한 후 상단의 수정 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
 * VPC 수정을 위한 팝업 창이 화면에 나타납니다.
 {% endtab %}
@@ -87,7 +87,7 @@ VPC 삭제는 Project 내 VPC 를 삭제하는 기능입니다. 삭제 대상 VP
 * 삭제하려는 VPC를 선택합니다.
 * VPC 목록 상단의 삭제 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
 
 * VPC 삭제을 위한 팝업 창이 화면에 나타납니다.
 {% endtab %}
@@ -95,7 +95,7 @@ VPC 삭제는 Project 내 VPC 를 삭제하는 기능입니다. 삭제 대상 VP
 {% tab title="2. VPC 삭제" %}
 * 팝업 창 우측 하단의 삭제 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
 
 * 삭제 팝업 창이 닫히고, VPC 목록에서 삭제되었는지 확인합니다.
 {% endtab %}

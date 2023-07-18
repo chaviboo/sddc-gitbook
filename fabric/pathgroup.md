@@ -74,7 +74,7 @@ Domain 과 PathEndpoint 를 관리하는 PathGroup을 생성하는 기능입니�
 * 왼쪽 메뉴에서 Fabric 관리 > PathGroup 을 선택합니다.
 * PathGroup 목록 화면이 나타나면 수정하려는 PathGroup을 선택한 다음, 상단의 수정 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
 
 * PathGroup 수정을 위한 팝업 창이 화면에 나타납니다.
 
@@ -96,13 +96,13 @@ PathGroup 정보를 삭제하는 기능입니다. 삭제 대상 PathGroup을 사
 * 왼쪽 메뉴에서 Fabric 관리 > PathGroup 을 선택합니다.
 * PathGroup 목록 화면이 나타나면 삭제하려는 PathGroup을 선택한 다음, 상단의 삭제 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="2. PathGroup 삭제" %}
 * 팝업 창 우측 하단의 삭제 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
 
 * 삭제 팝업 창이 닫히고, PathGroup 목록에서 삭제되었는지 확인합니다.
 {% endtab %}

@@ -14,7 +14,7 @@ Key Pair는 SSH Private, Public Key Pair를 생성하여 Server 연결할 때 �
 
 왼쪽 메뉴에서 Compute > Key Pair 를 클릭하여 Key Pair목록을 조회합니다.
 
-<figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -32,7 +32,7 @@ Key Pair는 SSH Private, Public Key Pair를 생성하여 Server 연결할 때 �
 * 동일 프로젝트에서 동일 이름의 Key Pair는 생성할 수 없습니다.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="2. Key Pair 생성" %}
@@ -52,7 +52,7 @@ Key Pair는 SSH Private, Public Key Pair를 생성하여 Server 연결할 때 �
 * 다운 받은 Private Key는 반드시 안전한 곳에 저장하시기 바랍니다.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -72,13 +72,13 @@ Key Pair는 SSH Private, Public Key Pair를 생성하여 Server 연결할 때 �
 Key Pair 삭제 시, 복구가 불가능합니다.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="2. Key Pair 삭제" %}
 * 팝업 창 우측 하단의 삭제 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
 
 * 삭제 팝업 창이 닫히고, Key Pair 목록에서 삭제되었는지 확인합니다.
 {% endtab %}

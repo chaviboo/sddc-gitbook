@@ -14,7 +14,7 @@ Subnet 은 [VPC](vpc.md) 내 세분화된 네트워크 영역을 의미합니다
 
 왼쪽 메뉴에서 Network > Subnet 을 클릭하여 Subnet 목록을 조회합니다.
 
-<figure><img src="../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -27,7 +27,7 @@ Subnet 생성은 VPC 내 Subnet 을 생성하는 기능입니다. VPC 에 대한
 * 왼쪽 메뉴에서 Network > Subnet 을 선택합니다.
 * Subnet 목록 화면이 나타나면 상단 메뉴 중 생성 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
 
 * Subnet 생성을 위한 팝업 창이 화면에 나타납니다.
 {% endtab %}
@@ -44,7 +44,7 @@ Subnet 생성은 VPC 내 Subnet 을 생성하는 기능입니다. VPC 에 대한
 
 * 설명 : Subnet 에 대한 상세한 설명입니다.
 
-<figure><img src="../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
 * 팝업 창 우측 하단의 생성 버튼을 클릭합니다.
 * 팝업 창이 닫히고, Subnet 목록 화면에 생성한 Subnet이 추가된 것이 확인됩니다.
@@ -70,7 +70,7 @@ Subnet 정보를 수정하는 기능입니다. VPC, Subnet 이름, Subnet 주소
 * 왼쪽 메뉴에서 Network > Subnet 을 선택합니다.
 * Subnet 목록 화면이 나타나면 수정하려는 Subnet을 선택한 후 상단의 수정 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
 
 * Subnet 수정을 위한 팝업 창이 화면에 나타납니다.
 {% endtab %}
@@ -102,7 +102,7 @@ Subnet 삭제는 VPC 내 Subnet 을 삭제하는 기능입니다. 삭제 대상 
 * 왼쪽 메뉴에서 Network > Subnet 을 선택합니다.
 * Subnet 목록 화면이 나타나면 삭제하려는 Subnet을 선택한 후 상단의 삭제 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
 
 * Subnet 삭제를 위한 팝업 창이 화면에 나타납니다.
 {% endtab %}
@@ -110,7 +110,7 @@ Subnet 삭제는 VPC 내 Subnet 을 삭제하는 기능입니다. 삭제 대상 
 {% tab title="2. Subnet 삭제" %}
 * 팝업 창 우측 하단의 삭제 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
 * 삭제 팝업 창이 닫히고, Subnet 목록에서 삭제되었는지 확인합니다.
 {% endtab %}
