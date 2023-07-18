@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Init Script
 
 ## 개요
@@ -122,3 +136,9 @@ Init Script 삭제는 이미 생성된 Server의 Init Script를 삭제하지는 
 > Init Script 자체에 오류가 있는지 먼저 확인하시기 바랍니다. 만약 오류 수정이 필요한 경우 Server에 직접 접속하여 Init Script를 수정해야 합니다.
 >
 > Init Script의 오류가 없는데도 정상 동작하지 않은 경우는 시스템 관리자(sddc.ktcloud@kt.com)으로 문의하시기 바랍니다.
+
+
+
+```
+// Some code
+```
